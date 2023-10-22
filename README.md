@@ -52,8 +52,7 @@ author = {Chao He and Hongmei Shi and Jianbo Li},
 ```
 
 
-C. He, H. Shi, J. Li, IDSN: A one-stage interpretable and differentiable STFT domain adaptation network for traction motor of high-speed trains cross-machine diagnosis, Mechanical Systems and Signal Processing 205 (2023) 110846, https://doi.org/10.1016/j.ymssp.2023.110846
-
+C. He, H. Shi, J. Li, IDSN: A one-stage interpretable and differentiable STFT domain adaptation network for traction motor of high-speed trains cross-machine diagnosis, Mechanical Systems and Signal Processing 205 (2023) 110846, https://doi.org/10.1016/j.ymssp.2023.110846.
 
 
 
