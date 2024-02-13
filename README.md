@@ -2,7 +2,6 @@
 
 The ~~pytorch implementation~~ of the paper [IDSN: A one-stage interpretable and differentiable STFT domain adaptation network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)
 
-Link: https://authors.elsevier.com/c/1hyKp39~t0ffSz  (**50 days' free access**)
 
 # Updating!
 
@@ -33,7 +32,7 @@ Chao He<sup>a,b</sup>, **Hongmei Shi<sup>a,b,*</sup>** and Jianbo Li<sup>a,b</su
 
 <sup>b</sup>Collaborative Innovation Center of Railway Traffic Safety, Beijing 100044, China 
 
-[Mechanical Systems and Signal Processing](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)
+[Mechanical Systems and Signal Processing](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing/vol/205/suppl/C)
 
 
 
